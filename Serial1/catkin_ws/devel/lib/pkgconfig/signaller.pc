@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/Serial/catkin_ws/devel
+
+Name: signaller
+Description: Description of signaller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
