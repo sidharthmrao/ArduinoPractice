@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sloth/Programming/CEV/ARDUINO/Serial/catkin_ws/devel/setup.sh
