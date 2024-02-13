@@ -1,2 +1,0 @@
-signaller
--DCATKIN_DEVEL_PREFIX=/home/sloth/Programming/CEV/ARDUINO/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sloth/Programming/CEV/ARDUINO/catkin_ws/install -G Unix Makefiles
